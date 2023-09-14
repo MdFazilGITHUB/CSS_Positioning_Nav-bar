@@ -55,7 +55,8 @@ nav button{
 .center{
     /* position: absolute; */
     margin-top: 401px;
-    margin-left: 650px;
+    /* margin-left: 650px; */
+    padding-left: 650px;
     font-size: 50px;
     left: 300px;
     text-decoration: underline;
